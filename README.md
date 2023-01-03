@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - My phone:+1 214)989-4285
-
+- My Skype ID:live:.cid.3f51b9cf65ba0b3e
+- My Telegram:https://t.me/ErosHong
 <!---
 IT-Dev-Sun/IT-Dev-Sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
