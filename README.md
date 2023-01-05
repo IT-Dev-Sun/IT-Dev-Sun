@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web development and Blockchain APPs
 - 📫 How to reach me?
   - My Phone:+1 214) 989-4285
-  - My telegram:https://t.me/ErosGod
+  - My telegram:https://t.me/ErosHong
   - My Skype:live:.cid.3f51b9cf65ba0b3e
 <!---
 IT-Dev-Sun/IT-Dev-Sun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
