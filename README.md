@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IT-Dev-Sun
 - 👀 I’m interested in developing software
 - 🌱 I’m currently learning Binance
-- 💞️ I’m looking to collaborate on Web development and Blockchain APPs
+- 💞️ I’m looking to collaborate on Web development, Blockchain dAPPs and Reverse Engineering
 - 📫 How to reach me?
       - Phone:+1 214) 989-4285
       - Telegram:https://t.me/ErosForU
