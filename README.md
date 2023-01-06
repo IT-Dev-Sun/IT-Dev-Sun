@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Binance
 - 💞️ I’m looking to collaborate on Web development, Blockchain dAPPs and Reverse Engineering
 - 📫 How to reach me?
-  - Phone:+1 214) 989-4285
   - Telegram:https://t.me/ErosForU
   - Skype:live:.cid.3f51b9cf65ba0b3e
 <!---
