@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IT-Dev-Sun
-- 👀 I’m interested in developing software
+- 👋 Hi, I’m IT-Dev-Sun Team Manager
+- 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning Binance
 - 💞️ I’m looking to collaborate on Web development, Blockchain dAPPs and Reverse Engineering
 - 📫 How to reach me?
