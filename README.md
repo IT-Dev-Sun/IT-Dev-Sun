@@ -1,4 +1,4 @@
-- 👋 Hi, I’m IT-Dev-Sun Team Manager
+- 👋 Hi, I’m IT-Dev-Sun Team, 12 staffs Manager
 - 👀 I’m interested in developing softwares
 - 🌱 I’m currently learning Binance
 - 💞️ I’m looking to collaborate on Web development, Blockchain dAPPs and Reverse Engineering
