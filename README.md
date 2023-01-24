@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IT-Dev-Sun Team Head
 - 👀 We're interested in developing softwares
-- 💞️ We're looking to collaborate on Web development, Blockchain dAPPs and Reverse Engineering
+- 💞️ We're looking to collaborate on Web development, iOS Apps, Defi and dAPPs and Reverse Engineering
 - 📫 How to reach us?
   - Telegram:https://t.me/ErosForU
   - Skype:live:.cid.3f51b9cf65ba0b3e
